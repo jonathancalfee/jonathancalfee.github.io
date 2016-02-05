@@ -7,7 +7,7 @@ body {
 }
 
 .navbar-brand {
-  font-family: 'Luckiest Guy', cursive;
+  font-family: 'Roboto', sans-serif;
   font-size: 45px;
   color: #ff3061;
   padding-top: 20px;
@@ -36,14 +36,19 @@ form .btn-default {
   color: #9d9d9d;
   background-color: black;
 }
-
+.paragraph {
+  font-family: 'Roboto', sans-serif;
+  color: #FFF;
+  font-size: 20px;
+  align="center"
+}
 .center{
   align="center"
 }
 .headline {
   font-size: 125px;
 font-family: 'Lobster', cursive;
-color: #000
+color: #FFF;
 align="center"
 }
 
