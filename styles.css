@@ -1,11 +1,15 @@
 p {
   color: #FFF
 }
-
+.list {
+  font-size: 25px;
+}
 body {
   margin-top: 30px;
 }
-
+ul {
+    list-style-position: inside;
+}
 .navbar-brand {
   font-family: 'Roboto', sans-serif;
   font-size: 45px;
@@ -59,6 +63,7 @@ align="center"
 
 .background {
   background-color: #222222;
+  color: #FFF;
 }
 
 .classWithPad { margin:10px; padding:10px; }
